@@ -1,16 +1,9 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 # Site Settings
 locale                   : "en-US"
-title                    : "Wenqi Shao"
+title                    : "Wenqi Shao (邵文琪)"
 title_separator          : "-"
 name                     : &name "Wenqi Shao"
-description              : &description "Young Scientist at Shanghai AI Laboratory"
+description              : &description "Young Scientist at Shanghai Laboratory"
 url                      : https://wqshao126.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wqshao126/wqshao126.github.io"
@@ -82,12 +75,12 @@ analytics:
 author:
   name             : "Wenqi Shao"
   avatar           : "wqshao.jpeg"
-  bio              : "Young Scientist at Shanghai AI Laboratory"
-  location         : "Hongkong/Shanghai"
+  bio              : "Young Scientist at Shanghai Laboratory"
+  location         : "Shanghai, China"
   employer         :
-  pubmed           : 
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Bs9mrwwAAAAJ&hl=en"
-  email            : weqish@link.cuhk.edu.hk
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -176,7 +169,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-   output: true
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
@@ -193,7 +186,7 @@ collections:
 defaults:
   # _posts
   - scope:
-     path: ""
+      path: ""
       type: posts
     values:
       layout: single
@@ -204,7 +197,7 @@ defaults:
       related: true
   # _pages
   - scope:
-     path: ""
+      path: ""
       type: pages
     values:
       layout: single
@@ -255,7 +248,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
