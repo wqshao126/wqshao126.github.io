@@ -193,10 +193,19 @@ I am a Young Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multimedia
 <h2> Academic Activities </h2>
 <ul>
   <li>
-    <p> Co-organizer of Statistical Deep Learning Workshop on Computer Vision, ICCV 2020.
+    <p> Co-organizer of Statistical Deep Learning Workshop on Computer Vision, ICCV 2019.
     </p>
   </li>
-
+  <li>
+    <p>
+      Conference Reviewer of CVPR 2020, 2021; ICLR 2020, 2021, 2022; NeurIPS 2019, 2020, 2021; ICCV 2021
+      </p>
+  </li>
+  <li>
+    <p>
+      Invited Speaker in VALSE Workshop on Normalization Methods, VALSE, 2021
+      </p>
+  </li>
 </ul>
 
 </body></html>
