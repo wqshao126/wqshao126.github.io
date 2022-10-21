@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"> 
+<body>
 <h2>
   Biography 
 </h2>
@@ -37,3 +38,6 @@ I am looking for research interns at Shanghai AI lab. Feel free to send me an em
   </li>
 
 </ul>
+
+</body>
+</html>
