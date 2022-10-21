@@ -3,7 +3,7 @@ locale                   : "en-US"
 title                    : "Wenqi Shao (邵文琪)"
 title_separator          : "-"
 name                     : &name "Wenqi Shao"
-description              : &description "Young Scientist at Shanghai AI Laboratory"
+description              : &description "Research Scientist at Shanghai AI Laboratory"
 url                      : https://wqshao126.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wqshao126/wqshao126.github.io"
@@ -75,12 +75,12 @@ analytics:
 author:
   name             : "Wenqi Shao (邵文琪)"
   avatar           : "wqshao.jpeg"
-  bio              : "   Young Scientist \n at Shanghai AI Laboratory"
+  bio              : "   Research Scientist \n at Shanghai AI Laboratory"
   location         : "Shanghai, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Bs9mrwwAAAAJ&hl=en"
-  email            :
+  email            : weqish@link.cuhk.edu.hk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
