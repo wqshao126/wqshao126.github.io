@@ -43,7 +43,7 @@ I am a Young Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multimedia
 </h2>
 <ul>
   <li>
-    <p> [08/2022] Congrats! I have passed Ph.D. Oral Defense.
+    <p> [08/2022] Congrats! I have passed my Ph.D. Oral Defense.
     </p>
   </li>
 
