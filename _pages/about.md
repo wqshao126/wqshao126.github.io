@@ -81,16 +81,51 @@ I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multime
       <br />
     </li>
       <br />
-          
     <li>
-      Not All Models Are Equal: Predicting Model Transferability in a Self-challenging Fisher Space, <br />
-      <b> W. Shao </b>, X. Zhao, Y. Ge, Z. Zhang, L. Yang, X. Wang, Y. Shan, P. Luo. 
-      <br /> European Conference on Computer Vision (<b>ECCV</b>), 2022. 
-      [<a href="https://github.com/TencentARC/SFDA">Code</a>],
-      [<a href="https://arxiv.org/abs/2207.03036">Paper</a>]
+      CO^3: Cooperative Unsupervised 3D Representation Learning for Autonomous Driving, <br />
+      R. Chen, Y. Mu, R. Xu, <b>W. Shao</b>, C. Jiang, H. Xu, Y. Qiao, Z. Li, P. Luo 
+      <br /> arXiv preprint (<b>Submitted to ICLR </b>), 2022. 
+      [<a href="https://github.com/Runjian-Chen/CO3">Code</a>],
+      [<a href="https://arxiv.org/abs/2206.04028">Paper</a>]
+      <br />
+    </li>
+      <br />   
+    <li>
+      Dynamic Token Normalization Improves Vision Transformer, <br />
+      <b>W. Shao</b>, Y. Ge, Z. Zhang, X. Xu, X. Wang, Y. Shan, P. Luo 
+      <br /> International Conference on Learning Representation (<b> ICLR </b>), 2022. 
+      [<a href="https://github.com/TencentARC/DTN">Code</a>],
+      [<a href="https://arxiv.org/abs/2112.02624">Paper</a>]
       <br />
     </li>
       <br />
+    <h3>2021</h3>
+    <li>
+      Rethinking the pruning criteria for convolutional neural network, <br />
+      Z. Huang, <b>W. Shao</b>, X. Wang, L. Lin, P. Luo
+      <br /> Advances in Neural Information Processing (<b> NeurIPS </b>), 2021. 
+      [<a href="https://proceedings.neurips.cc/paper/2021/file/87ae6fb631f7c8a627e8e28785d9992d-Paper.pdf">Paper</a>],
+      [<a href="https://proceedings.neurips.cc/paper/2021/file/87ae6fb631f7c8a627e8e28785d9992d-Supplemental.pdf">Supp</a>]
+      <br />
+    </li>
+      <br />
+    <li>
+      What makes for end-to-end object detection? <br />
+      P. Sun, Y. Jiang, E. Xie, <b>W. Shao</b>, Z. Yuan, C. Wang, P. Luo
+      <br /> International Conference on Machine Learning (<b> ICML </b>), 2021. 
+      [<a href="https://proceedings.mlr.press/v139/sun21b.html?ref=https://githubhelp.com">Paper</a>]
+      <br />
+    </li>
+      <br />
+    <li>
+      Differentiable Dynamic Quantization with Mixed Precision and Adaptive Resolution, <br />
+      Z. Zhang, W. Shao, J. Gu, X. Wang, P. Luo
+      <br /> International Conference on Machine Learning (<b> ICML </b>), 2021. 
+      [<a href="http://proceedings.mlr.press/v139/zhang21r.html">Paper</a>]
+      <br />
+    </li>
+      <br />
+
 
 <h2> Academic Activities </h2>
 
