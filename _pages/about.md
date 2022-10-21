@@ -13,7 +13,7 @@ redirect_from:
 <head>
 <meta name="keywords" content="Wenqi Shao, CUHK" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<link rel="stylesheet" href="./_pages/jemdoc.css" type="text/css" />
 <!--link rel="shortcut icon" href="rui.ico"-->
 <title>Hongsheng Li at CUHK</title>
 </head>
@@ -70,7 +70,7 @@ I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multime
 <table id="tbPublications" width="100%">
 	<tbody>
 	<tr>
-	<td><center><img width="250" src="./pic/paper/SFDA.jpg"></center></td>
+	<td><center><img width="250" src="./_pages/pic/paper/SFDA.jpg"></center></td>
 	 <td>
 		<font size="2">Not All Models Are Equal: Predicting Model Transferability in a Self-challenging Fisher Space,
 		<br>
@@ -82,7 +82,8 @@ I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multime
 	 </td>
   </tr>
 
-</tbody></table>
+</tbody>
+</table>
 
 
 
