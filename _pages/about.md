@@ -26,7 +26,7 @@ redirect_from:
 <body>
 
 <p align = "justify"> 
-I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multimedia Lab, the Chinese University of Hong Kong (CUHK) in 2022. During my Ph.D. period, I was supervised by <a href="https://www.ee.cuhk.edu.hk/~xgwang/">Prof. Xiaogang Wang</a>, <a href="http://luoping.me/">Prof. Ping Luo</a>, and <a href="https://www.ee.cuhk.edu.hk/~hsli/">Prof. Hongsheng Li</a>. Before that, I received bachelor's degree in School of Mathematics at University of Electronic Science and Technology of China (UESTC) in 2017, ranking 1/40. I was fortunate to involve several interships in industry, such as Tencent ARC, Huawei Noah AI Foundation Group, and Sensetime Research. My research interests lie in transfer learning of foundation models, co-design of networks and hardware accelerator, normalization methods in deep models, self-supervised representation learning. 
+I am a Young Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multimedia Lab, the Chinese University of Hong Kong (CUHK) in 2022. During my Ph.D. period, I was supervised by <a href="https://www.ee.cuhk.edu.hk/~xgwang/">Prof. Xiaogang Wang</a>, <a href="http://luoping.me/">Prof. Ping Luo</a>, and <a href="https://www.ee.cuhk.edu.hk/~hsli/">Prof. Hongsheng Li</a>. Before that, I received bachelor's degree in School of Mathematics at University of Electronic Science and Technology of China (UESTC) in 2017, ranking 1/40. I was fortunate to involve several interships in industry, such as Tencent ARC, Huawei Noah AI Foundation Group, and Sensetime Research. My research interests lie in transfer learning of foundation models, co-design of networks and hardware accelerator, normalization methods in deep models, self-supervised representation learning. 
 </p>
 
 <p align = "justify"> 
@@ -72,6 +72,7 @@ I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multime
 <h2> Publications</h2>
 
   <h3>2022</h3>
+  <ul>
     <li>
       Not All Models Are Equal: Predicting Model Transferability in a Self-challenging Fisher Space, <br />
       <b> W. Shao </b>, X. Zhao, Y. Ge, Z. Zhang, L. Yang, X. Wang, Y. Shan, P. Luo. 
@@ -98,7 +99,9 @@ I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multime
       [<a href="https://arxiv.org/abs/2112.02624">Paper</a>]
       <br />
     </li>
+    </ul>
     <h3>2021</h3>
+    <ul>
     <li>
       Rethinking the pruning criteria for convolutional neural network, <br />
       Z. Huang, <b>W. Shao</b>, X. Wang, L. Lin, P. Luo
@@ -131,7 +134,9 @@ I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multime
       [<a href="https://arxiv.org/abs/2206.04028">Paper</a>]
       <br />
     </li>
+    </ul>
     <h3>2020</h3>
+    <ul>
     <li>
       Channel equilibrium networks for learning deep representation, <br />
       <b>W. Shao</b>, S. Tang, X. Pan, P. Tan, X. Wang, P. Luo
@@ -139,11 +144,13 @@ I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multime
       [<a href="http://proceedings.mlr.press/v119/shao20a.html">Paper</a>]
       <br />
     </li>
+    <ul>
     <h3>2019</h3>
+    <ul>
     <li>
       SSN: Learning Sparse Switchable Normalization via SparsestMax, <br />
       <b>W. Shao</b>, J. Li, J. Ren, R. Zhang, X. Wang, P. Luo
-      <br /> International Journal of Computer Vision (<b> IJCV </b>),Volume 128, 2019. 
+      <br /> International Journal of Computer Vision (<b> IJCV </b>), Volume 128, 2019. 
       [<a href="https://link.springer.com/article/10.1007/s11263-019-01269-y">Paper</a>],
       [<a href="https://github.com/switchablenorms/Sparse_SwitchNorm">Code</a>]
       <br />
@@ -181,10 +188,15 @@ I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multime
       [<a href="http://proceedings.mlr.press/v97/luo19a.html">Paper</a>],
       <br />
       </li>
+    </ul>
      
-    
-    
-
 <h2> Academic Activities </h2>
+<ul>
+  <li>
+    <p> Co-organizer of Statistical Deep Learning Workshop on Computer Vision, ICCV 2020.
+    </p>
+  </li>
+
+</ul>
 
 </body></html>
