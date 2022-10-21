@@ -5,7 +5,7 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  #- /about.html
 ---
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"> 
@@ -39,10 +39,21 @@ I am looking for research interns at Shanghai AI lab. Feel free to send me an em
   News 
 </h2>
 <ul>
+  <li>
+    <p> [08/2022] Congrat! I have passed Ph.D Oral Defense.
+    </p>
+  </li>
 
-   <li>
-  <p> one was accepted to ECCV 2022
-  </p>
+  <li>
+    <p> [06/2022] An efficient and effective model selection method <a href="https://arxiv.org/abs/2207.03036"> <b>SFDA</b></a> was accepted to ECCV 2022
+    </p>
+  </li>
+
+  
+
+  <li>
+    <p> [01/2022] An new normalization method <a href="https://arxiv.org/abs/2112.02624"> <b>DTN</b></a> for vision transformers was accepted to ICLR 2022.
+    </p>
   </li>
 
 </ul>
