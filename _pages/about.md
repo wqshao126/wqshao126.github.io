@@ -14,6 +14,17 @@ redirect_from:
   Biography 
 </h2>
 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<link rel="shortcut icon" href="myIcon.ico">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+
+<meta name="keywords" content="Wenqi Shao, CUHK, The Chinese University of Hong Kong">
+<meta name="description" content="Wenqi Shao&#39;s home page">
+<link rel="stylesheet" href="jemdoc.css" type="text/css">
+</head>
+<body>
+
 <p align = "justify"> 
 I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multimedia Lab, the Chinese University of Hong Kong (CUHK) in 2022. During my Ph.D. period, I was supervised by <a href="https://www.ee.cuhk.edu.hk/~xgwang/">Prof. Xiaogang Wang</a>, <a href="http://luoping.me/">Prof. Ping Luo</a>, and <a href="https://www.ee.cuhk.edu.hk/~hsli/">Prof. Hongsheng Li</a>. Before that, I received bachelor's degree in School of Mathematics at University of Electronic Science and Technology of China (UESTC) in 2017, ranking 1/40. I was fortunate to involve several interships in industry, such as Tencent ARC, Huawei Noah AI Foundation Group, and Sensetime Research. My research interests lie in transfer learning of foundation models, co-design of networks and hardware accelerator, normalization methods in deep models, self-supervised representation learning. 
 </p>
@@ -100,3 +111,5 @@ I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multime
 </table>
 
 <h2> Academic Activities </h2>
+
+</body></html>
