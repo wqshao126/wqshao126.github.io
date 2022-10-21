@@ -13,7 +13,7 @@ redirect_from:
 <head>
 <meta name="keywords" content="Wenqi Shao, CUHK" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<link rel="stylesheet" href="./_pages/jemdoc.css" type="text/css" />
+<!--link rel="stylesheet" href="./_pages/jemdoc.css" type="text/css" /-->
 <!--link rel="shortcut icon" href="rui.ico"-->
 <title>Hongsheng Li at CUHK</title>
 </head>
@@ -40,7 +40,7 @@ I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multime
 </h2>
 <ul>
   <li>
-    <p> [08/2022] Congrats! I have passed Ph.D Oral Defense.
+    <p> [08/2022] Congrats! I have passed Ph.D. Oral Defense.
     </p>
   </li>
 
