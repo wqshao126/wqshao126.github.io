@@ -146,7 +146,7 @@ I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multime
     <li>
       SSN: Learning Sparse Switchable Normalization via SparsestMax, <br />
       <b>W. Shao</b>, J. Li, J. Ren, R. Zhang, X. Wang, P. Luo
-      <br /> International Journal of Computer Vision (<b> IJCV </b>),Volume 128, pages 2107-2125, 2019. 
+      <br /> International Journal of Computer Vision (<b> IJCV </b>),Volume 128, 2019. 
       [<a href="https://link.springer.com/article/10.1007/s11263-019-01269-y">Paper</a>],
       [<a href="https://github.com/switchablenorms/Sparse_SwitchNorm">Code</a>]
       <br />
