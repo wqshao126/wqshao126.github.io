@@ -144,7 +144,7 @@ I am a Young Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multimedia
       [<a href="http://proceedings.mlr.press/v119/shao20a.html">Paper</a>]
       <br />
     </li>
-    <ul>
+    </ul>
     <h3>2019</h3>
     <ul>
     <li>
