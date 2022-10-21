@@ -53,7 +53,7 @@ I am a Young Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multimedia
   </li>
 
   <li>
-    <p> [06/2022] An self-supervised framework for point cloud in autonomous driving <a href="https://arxiv.org/abs/2206.04028"> <b>CO3</b></a> was released.
+    <p> [06/2022] A self-supervised framework for point cloud in autonomous driving <a href="https://arxiv.org/abs/2206.04028"> <b>CO3</b></a> was released.
     </p>
   </li>
 
