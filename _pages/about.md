@@ -15,7 +15,7 @@ redirect_from:
 </h2>
 
 <p align = "justify"> 
-I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multimedia Lab, the Chinese University of Hong Kong in 2022. During my Ph.D. period, I was supervised by [Prof. Xiaogang Wang](https://www.ee.cuhk.edu.hk/~xgwang/), [Prof. Ping Luo](http://luoping.me/) and [Prof. Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/). I was fortunate to involve several interships in industry, such as Tencent ARC, Huawei Noah AI Foundation Group, and Sensetime Research. My research interestes lie in transfer learning of foundation models, co-design of networks and harware accelerator, normalization methods in deep models, self-supervised representation learning. 
+I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multimedia Lab, the Chinese University of Hong Kong in 2022. During my Ph.D. period, I was supervised by <a href="https://www.ee.cuhk.edu.hk/~xgwang/">Prof. Xiaogang Wang</a>, <a href="http://luoping.me/">Prof. Ping Luo</a>, and <a href="https://www.ee.cuhk.edu.hk/~hsli/">Prof. Hongsheng Li</a>. I was fortunate to involve several interships in industry, such as Tencent ARC, Huawei Noah AI Foundation Group, and Sensetime Research. My research interestes lie in transfer learning of foundation models, co-design of networks and harware accelerator, normalization methods in deep models, self-supervised representation learning. 
 </p>
 
 <p align = "justify"> 
