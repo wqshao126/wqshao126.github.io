@@ -71,44 +71,26 @@ I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multime
 
 <h2> Publications</h2>
 
-<table> 
-	<tbody>
-	<tr>
-	<td><center><img width="250" src="./_pages/pic/paper/SFDA.jpg"></center></td>
-	 <td>
-		<font size="3">Not All Models Are Equal: Predicting Model Transferability in a Self-challenging Fisher Space,
-		<br>
-    <i><b>Wenqi Shao</b>, Xun Zhao, Yixiao Ge, Zhaoyang Zhang, Lei Yang, Xiaogang Wang, Ying Shan, Ping Luo</i>
-		<br>
-		European Conference on Computer Vision (<b>ECCV</b>) 2022
-		<br>
-			[<a href='https://arxiv.org/abs/2207.03036' target="_blank"><b>paper</b></a>|<a href='https://github.com/TencentARC/SFDA' target="_blank"><b>code</b></a>]
-	
-  <tr>
-	<td><center><img width="250" src="./_pages/pic/paper/SFDA.jpg"></center></td>
-	 <td>
-		<font size="3">Not All Models Are Equal: Predicting Model Transferability in a Self-challenging Fisher Space,
-		<br>
-    <i><b>Wenqi Shao</b>, Xun Zhao, Yixiao Ge, Zhaoyang Zhang, Lei Yang, Xiaogang Wang, Ying Shan, Ping Luo</i>
-		<br>
-		European Conference on Computer Vision (<b>ECCV</b>) 2022
-		<br>
-			[<a href='https://arxiv.org/abs/2207.03036' target="_blank"><b>paper</b></a>|<a href='https://github.com/TencentARC/SFDA' target="_blank"><b>code</b></a>]
-  </tr>
-
-  <tr>
-	 <td><center><img width="250" src="./_pages/pic/paper/DTN.jpg"></center></td>
-	 <td>
-		<font size="3">Dynamic Token Normalization Improves Vision Transformer,
-		<br>
-    <i><b>Wenqi Shao</b>, Yixiao Ge, Zhaoyang Zhang, Xuyuan Xu, Xiaogang Wang, Ying Shan, Ping Luo</i>
-		<br>
-		International Conference on Learning Representation (<b>ICLR</b>) 2022
-		<br>
-			[<a href='https://arxiv.org/abs/2112.02624' target="_blank"><b>paper</b></a>|<a href='https://github.com/TencentARC/DTN' target="_blank"><b>code</b></a>]
-    </td>
-  </tbody>
-</table>
+  <h3>2022</h3>
+    <li>
+      Not All Models Are Equal: Predicting Model Transferability in a Self-challenging Fisher Space, <br />
+      <b> W. Shao </b>, X. Zhao, Y. Ge, Z. Zhang, L. Yang, X. Wang, Y. Shan, P. Luo. 
+      <br /> European Conference on Computer Vision (<b>ECCV</b>), 2022. 
+      [<a href="https://github.com/TencentARC/SFDA">Code</a>],
+      [<a href="https://arxiv.org/abs/2207.03036">Paper</a>]
+      <br />
+    </li>
+      <br />
+          
+    <li>
+      Not All Models Are Equal: Predicting Model Transferability in a Self-challenging Fisher Space, <br />
+      <b> W. Shao </b>, X. Zhao, Y. Ge, Z. Zhang, L. Yang, X. Wang, Y. Shan, P. Luo. 
+      <br /> European Conference on Computer Vision (<b>ECCV</b>), 2022. 
+      [<a href="https://github.com/TencentARC/SFDA">Code</a>],
+      [<a href="https://arxiv.org/abs/2207.03036">Paper</a>]
+      <br />
+    </li>
+      <br />
 
 <h2> Academic Activities </h2>
 
