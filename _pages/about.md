@@ -119,13 +119,64 @@ I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multime
       <br />
     <li>
       Differentiable Dynamic Quantization with Mixed Precision and Adaptive Resolution, <br />
-      Z. Zhang, W. Shao, J. Gu, X. Wang, P. Luo
+      Z. Zhang, <b>W. Shao</b>, J. Gu, X. Wang, P. Luo
       <br /> International Conference on Machine Learning (<b> ICML </b>), 2021. 
       [<a href="http://proceedings.mlr.press/v139/zhang21r.html">Paper</a>]
       <br />
     </li>
       <br />
-
+    <li>
+      BWCP: Probabilistic Learning-to-Prune Channels for ConvNets via Batch Whitening, <br />
+      <b>W. Shao</b>, H. Yu, Z. Zhang, H. Xu, Z. Li, P. Luo
+      <br /> arXiv preprint, Technical Report 2021. 
+      [<a href="https://arxiv.org/abs/2206.04028">Paper</a>]
+      <br />
+    </li>
+      <br /> 
+    <h3>2020</h3>
+    <li>
+      Channel equilibrium networks for learning deep representation, <br />
+      <b>W. Shao</b>, S. Tang, X. Pan, P. Tan, X. Wang, P. Luo
+      <br /> International Conference on Machine Learning (<b> ICML </b>), 2020. 
+      [<a href="http://proceedings.mlr.press/v119/shao20a.html">Paper</a>]
+      <br />
+    </li>
+      <br />
+    h3>2019</h3>
+    <li>
+      SSN: Learning Sparse Switchable Normalization via SparsestMax, <br />
+      <b>W. Shao</b>, J. Li, J. Ren, R. Zhang, X. Wang, P. Luo
+      <br /> International Journal of Computer Vision (<b> IJCV </b>),Volume 128, pages 2107-2125, 2019. 
+      [<a href="https://link.springer.com/article/10.1007/s11263-019-01269-y">Paper</a>],
+      [<a href="https://github.com/switchablenorms/Sparse_SwitchNorm">Code</a>]
+      <br />
+    <li>
+      Towards understanding regularization in batch normalization, <br />
+      P. Luo, X. Wang, <b>W. Shao</b>, Zhanglin Peng.
+      <br /> International Conference on Learning Representation (<b> ICLR </b>), 2019. 
+      [<a href="https://arxiv.org/abs/1809.00846">Paper</a>]
+      <br />
+    <li>
+      SSN: Learning Sparse Switchable Normalization via SparsestMax, <br />
+      <b>W. Shao</b>, T. Meng, J. Li, Y. Li, R. Zhang, X. Wang, P. Luo
+      <br /> Conference on Computer Vision and Pattern Recognition (<b> CVPR </b>), 2019. 
+      [<a href="http://openaccess.thecvf.com/content_CVPR_2019/html/Shao_SSN_Learning_Sparse_Switchable_Normalization_via_SparsestMax_CVPR_2019_paper.html">Paper</a>],
+      [<a href="https://github.com/switchablenorms/Sparse_SwitchNorm">Code</a>]
+      <br />
+    <li>
+      Differentiable Learning-to-Group Channels via Groupable Convolutional Neural Networks, <br />
+      Z. Zhang, J. Li, <b>W. Shao</b>, Z. Peng, R. Zhang, X. Wang, P. Luo
+      <br /> International Conference on Computer Vision  (<b> ICCV </b>), 2019. 
+      [<a href="https://openaccess.thecvf.com/content_ICCV_2019/html/Zhang_Differentiable_Learning-to-Group_Channels_via_Groupable_Convolutional_Neural_Networks_ICCV_2019_paper.html">Paper</a>],
+      <br />
+    <li>
+      Differentiable Dynamic Normalization for Learning Deep Representation, <br />
+      P. Luo, Z. Peng, <b>W. Shao</b>, R. Zhang, J. Ren, P. Luo
+      <br /> International Conference on Machine Learning (<b> ICML </b>), 2019. 
+      [<a href="http://proceedings.mlr.press/v97/luo19a.html">Paper</a>],
+      <br />
+    
+    
 
 <h2> Academic Activities </h2>
 
