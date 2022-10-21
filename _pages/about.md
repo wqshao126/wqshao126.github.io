@@ -98,7 +98,6 @@ I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multime
       [<a href="https://arxiv.org/abs/2112.02624">Paper</a>]
       <br />
     </li>
-      <br />
     <h3>2021</h3>
     <li>
       Rethinking the pruning criteria for convolutional neural network, <br />
@@ -132,7 +131,6 @@ I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multime
       [<a href="https://arxiv.org/abs/2206.04028">Paper</a>]
       <br />
     </li>
-      <br /> 
     <h3>2020</h3>
     <li>
       Channel equilibrium networks for learning deep representation, <br />
@@ -141,7 +139,6 @@ I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multime
       [<a href="http://proceedings.mlr.press/v119/shao20a.html">Paper</a>]
       <br />
     </li>
-      <br />
     <h3>2019</h3>
     <li>
       SSN: Learning Sparse Switchable Normalization via SparsestMax, <br />
@@ -184,7 +181,7 @@ I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multime
       [<a href="http://proceedings.mlr.press/v97/luo19a.html">Paper</a>],
       <br />
       </li>
-      <br />
+     
     
     
 
