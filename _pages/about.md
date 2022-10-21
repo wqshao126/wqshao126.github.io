@@ -27,7 +27,7 @@ I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multime
 </p>
 
 <p align = "justify"> 
-I am looking for research interns at Shanghai AI lab. Feel free to send me an email if you are interested in the above topics.
+<i> I am looking for research interns at Shanghai AI lab. Feel free to send me an email if you are interested in the above topics. </i>
 </p>
 
 <!-- News
@@ -45,14 +45,22 @@ I am looking for research interns at Shanghai AI lab. Feel free to send me an em
   </li>
 
   <li>
-    <p> [06/2022] An efficient and effective model selection method <a href="https://arxiv.org/abs/2207.03036"> <b>SFDA</b></a> was accepted to ECCV 2022
+    <p> [06/2022] An effective model selection method <a href="https://arxiv.org/abs/2207.03036"> <b>SFDA</b></a> was accepted to ECCV 2022
     </p>
   </li>
 
-  
+  <li>
+    <p> [06/2022] An self-supervised framework for point cloud in autonomous driving <a href="https://arxiv.org/abs/2206.04028"> <b>CO3</b></a> was released.
+    </p>
+  </li>
 
   <li>
-    <p> [01/2022] An new normalization method <a href="https://arxiv.org/abs/2112.02624"> <b>DTN</b></a> for vision transformers was accepted to ICLR 2022.
+    <p> [01/2022] A normalization method <a href="https://arxiv.org/abs/2112.02624"> <b>DTN</b></a> for ViTs was accepted to ICLR 2022.
+    </p>
+  </li>
+
+  <li>
+    <p> [08/2021] Theoretical analysis for channel pruning <a href="https://proceedings.neurips.cc/paper/2021/hash/87ae6fb631f7c8a627e8e28785d9992d-Abstract.html"> <b>CWDA</b></a> was accepted to NeurIPS 2021.
     </p>
   </li>
 
