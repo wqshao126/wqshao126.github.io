@@ -60,7 +60,7 @@ I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multime
 
 <h2> Publications</h2>
 
-<table id="tbPublications" width="100%">
+<table> 
 	<tbody>
 	<tr>
 	<td><center><img width="250" src="./_pages/pic/paper/SFDA.jpg"></center></td>
@@ -72,10 +72,21 @@ I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multime
 		European Conference on Computer Vision (<b>ECCV</b>) 2022
 		<br>
 			[<a href='https://arxiv.org/abs/2207.03036' target="_blank"><b>paper</b></a>|<a href='https://github.com/TencentARC/SFDA' target="_blank"><b>code</b></a>]
-	 
+	
+  <tr>
+	<td><center><img width="250" src="./_pages/pic/paper/SFDA.jpg"></center></td>
+	 <td>
+		<font size="3">Not All Models Are Equal: Predicting Model Transferability in a Self-challenging Fisher Space,
+		<br>
+    <i><b>Wenqi Shao</b>, Xun Zhao, Yixiao Ge, Zhaoyang Zhang, Lei Yang, Xiaogang Wang, Ying Shan, Ping Luo</i>
+		<br>
+		European Conference on Computer Vision (<b>ECCV</b>) 2022
+		<br>
+			[<a href='https://arxiv.org/abs/2207.03036' target="_blank"><b>paper</b></a>|<a href='https://github.com/TencentARC/SFDA' target="_blank"><b>code</b></a>]
+  </tr>
 
   <tr>
-	<td><center><img width="250" src="./_pages/pic/paper/DTN.jpg"></center></td>
+	 <td><center><img width="250" src="./_pages/pic/paper/DTN.jpg"></center></td>
 	 <td>
 		<font size="3">Dynamic Token Normalization Improves Vision Transformer,
 		<br>
@@ -88,4 +99,4 @@ I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multime
   </tbody>
 </table>
 
-<h2><font> Academic Activities </font></h2>
+<h2> Academic Activities </h2>
