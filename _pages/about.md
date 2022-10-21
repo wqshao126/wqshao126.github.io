@@ -142,7 +142,7 @@ I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multime
       <br />
     </li>
       <br />
-    h3>2019</h3>
+    <h3>2019</h3>
     <li>
       SSN: Learning Sparse Switchable Normalization via SparsestMax, <br />
       <b>W. Shao</b>, J. Li, J. Ren, R. Zhang, X. Wang, P. Luo
