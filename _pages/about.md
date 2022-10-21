@@ -8,15 +8,7 @@ redirect_from:
   #- /about.html
 ---
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"> 
-<body>
-<head>
-<meta name="keywords" content="Wenqi Shao, CUHK" />
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<!--link rel="stylesheet" href="./_pages/jemdoc.css" type="text/css" /-->
-<!--link rel="shortcut icon" href="rui.ico"-->
-<title>Hongsheng Li at CUHK</title>
-</head>
+
 
 <h2>
   Biography 
@@ -73,32 +65,24 @@ I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multime
 	<tr>
 	<td><center><img width="250" src="./_pages/pic/paper/SFDA.jpg"></center></td>
 	 <td>
-		<font size="4">Not All Models Are Equal: Predicting Model Transferability in a Self-challenging Fisher Space,
+		<font size="3">Not All Models Are Equal: Predicting Model Transferability in a Self-challenging Fisher Space,
 		<br>
     <i><b>Wenqi Shao</b>, Xun Zhao, Yixiao Ge, Zhaoyang Zhang, Lei Yang, Xiaogang Wang, Ying Shan, Ping Luo</i>
 		<br>
 		European Conference on Computer Vision (<b>ECCV</b>) 2022
 		<br>
 			[<a href='https://arxiv.org/abs/2207.03036' target="_blank"><b>paper</b></a>|<a href='https://github.com/TencentARC/SFDA' target="_blank"><b>code</b></a>]
-	 </td>
+	 
 
    <tr>
 	<td><center><img width="250" src="./_pages/pic/paper/SFDA.jpg"></center></td>
 	 <td>
-		<font size="4">Not All Models Are Equal: Predicting Model Transferability in a Self-challenging Fisher Space,
+		<font size="3">Not All Models Are Equal: Predicting Model Transferability in a Self-challenging Fisher Space,
 		<br>
     <i><b>Wenqi Shao</b>, Xun Zhao, Yixiao Ge, Zhaoyang Zhang, Lei Yang, Xiaogang Wang, Ying Shan, Ping Luo</i>
 		<br>
 		European Conference on Computer Vision (<b>ECCV</b>) 2022
 		<br>
 			[<a href='https://arxiv.org/abs/2207.03036' target="_blank"><b>paper</b></a>|<a href='https://github.com/TencentARC/SFDA' target="_blank"><b>code</b></a>]
-	 </td>
-  
-
-</tbody>
-</table>
-
-
-
-</body>
-</html>
+    
+<h2><font> Academic Activities </font></h2>
