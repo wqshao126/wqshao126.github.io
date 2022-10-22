@@ -104,7 +104,7 @@ I am a Young Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multimedia
     <ul>
     <li>
       Rethinking the pruning criteria for convolutional neural network, <br />
-      Z. Huang, <b>W. Shao</b>, X. Wang, L. Lin, P. Luo
+      Z. Huang*, <b>W. Shao*</b>, X. Wang, L. Lin, P. Luo
       <br /> Advances in Neural Information Processing (<b> NeurIPS </b>), 2021. 
       [<a href="https://proceedings.neurips.cc/paper/2021/file/87ae6fb631f7c8a627e8e28785d9992d-Paper.pdf">Paper</a>],
       [<a href="https://proceedings.neurips.cc/paper/2021/file/87ae6fb631f7c8a627e8e28785d9992d-Supplemental.pdf">Supp</a>]
@@ -158,7 +158,7 @@ I am a Young Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multimedia
       <br />
     <li>
       Towards understanding regularization in batch normalization, <br />
-      P. Luo, X. Wang, <b>W. Shao</b>, Zhanglin Peng.
+      P. Luo*, X. Wang*, <b>W. Shao*</b>, Zhanglin Peng.
       <br /> International Conference on Learning Representation (<b> ICLR </b>), 2019. 
       [<a href="https://arxiv.org/abs/1809.00846">Paper</a>]
       <br />
@@ -204,6 +204,24 @@ I am a Young Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multimedia
   <li>
     <p>
       Invited Speaker in VALSE Workshop on Normalization Methods, VALSE, 2021
+      </p>
+  </li>
+</ul>
+
+<h2> Teaching </h2>
+<ul>
+  <li>
+    <p> Teaching Assistant for <i> ELEG2401 Introduction to Embedded System</i>, Fall 2018, 2019, 2020, and 2021.
+    </p>
+  </li>
+  <li>
+    <p>
+      Teaching Assistant for <i> ELEG1410 Linear Algebra and Vector Calculus for Engineers.</i>, Spring 2019, 2021, and 2022.
+      </p>
+  </li>
+  <li>
+    <p>
+      Teaching Assistant for <i> ELEG2450 Probability and Statistics for Engineers.</i>, Spring 2022.
       </p>
   </li>
 </ul>
