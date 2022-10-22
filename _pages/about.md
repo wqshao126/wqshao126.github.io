@@ -219,12 +219,12 @@ I was fortunate to have several interships in industry, such as Tencent ARC, Hua
   </li>
   <li>
     <p>
-      Teaching Assistant for <i> ELEG1410 Linear Algebra and Vector Calculus for Engineers.</i>, Spring 2019, 2021, and 2022.
+      Teaching Assistant for <i> ELEG1410 Linear Algebra and Vector Calculus for Engineers</i>, Spring 2019, 2021, and 2022.
       </p>
   </li>
   <li>
     <p>
-      Teaching Assistant for <i> ELEG2450 Probability and Statistics for Engineers.</i>, Spring 2022.
+      Teaching Assistant for <i> ELEG2450 Probability and Statistics for Engineers</i>, Spring 2022.
       </p>
   </li>
 </ul>
