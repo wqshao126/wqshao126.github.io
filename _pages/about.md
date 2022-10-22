@@ -88,7 +88,7 @@ I was fortunate to have several interships in industry, such as Tencent ARC, Hua
     <li>
       CO^3: Cooperative Unsupervised 3D Representation Learning for Autonomous Driving, <br />
       R. Chen, Y. Mu, R. Xu, <b>W. Shao</b>, C. Jiang, H. Xu, Y. Qiao, Z. Li, P. Luo 
-      <br /> arXiv preprint (<b>Submitted to ICLR </b>), 2022. 
+      <br /> arXiv preprint (<b>Submitted to ICLR</b>), 2022. 
       [<a href="https://github.com/Runjian-Chen/CO3">Code</a>],
       [<a href="https://arxiv.org/abs/2206.04028">Paper</a>]
       <br />
@@ -97,7 +97,7 @@ I was fortunate to have several interships in industry, such as Tencent ARC, Hua
     <li>
       Dynamic Token Normalization Improves Vision Transformer, <br />
       <b>W. Shao</b>, Y. Ge, Z. Zhang, X. Xu, X. Wang, Y. Shan, P. Luo 
-      <br /> International Conference on Learning Representation (<b> ICLR </b>), 2022. 
+      <br /> International Conference on Learning Representation (<b>ICLR</b>), 2022. 
       [<a href="https://github.com/TencentARC/DTN">Code</a>],
       [<a href="https://arxiv.org/abs/2112.02624">Paper</a>]
       <br />
@@ -108,7 +108,7 @@ I was fortunate to have several interships in industry, such as Tencent ARC, Hua
     <li>
       Rethinking the pruning criteria for convolutional neural network, <br />
       Z. Huang*, <b>W. Shao*</b>, X. Wang, L. Lin, P. Luo
-      <br /> Advances in Neural Information Processing (<b> NeurIPS </b>), 2021. 
+      <br /> Advances in Neural Information Processing (<b>NeurIPS</b>), 2021. 
       [<a href="https://proceedings.neurips.cc/paper/2021/file/87ae6fb631f7c8a627e8e28785d9992d-Paper.pdf">Paper</a>],
       [<a href="https://proceedings.neurips.cc/paper/2021/file/87ae6fb631f7c8a627e8e28785d9992d-Supplemental.pdf">Supp</a>]
       <br />
@@ -117,7 +117,7 @@ I was fortunate to have several interships in industry, such as Tencent ARC, Hua
     <li>
       What makes for end-to-end object detection? <br />
       P. Sun, Y. Jiang, E. Xie, <b>W. Shao</b>, Z. Yuan, C. Wang, P. Luo
-      <br /> International Conference on Machine Learning (<b> ICML </b>), 2021. 
+      <br /> International Conference on Machine Learning (<b>ICML</b>), 2021. 
       [<a href="https://proceedings.mlr.press/v139/sun21b.html?ref=https://githubhelp.com">Paper</a>]
       <br />
     </li>
@@ -125,7 +125,7 @@ I was fortunate to have several interships in industry, such as Tencent ARC, Hua
     <li>
       Differentiable Dynamic Quantization with Mixed Precision and Adaptive Resolution, <br />
       Z. Zhang, <b>W. Shao</b>, J. Gu, X. Wang, P. Luo
-      <br /> International Conference on Machine Learning (<b> ICML </b>), 2021. 
+      <br /> International Conference on Machine Learning (<b>ICML</b>), 2021. 
       [<a href="http://proceedings.mlr.press/v139/zhang21r.html">Paper</a>]
       <br />
     </li>
@@ -143,7 +143,7 @@ I was fortunate to have several interships in industry, such as Tencent ARC, Hua
     <li>
       Channel equilibrium networks for learning deep representation, <br />
       <b>W. Shao</b>, S. Tang, X. Pan, P. Tan, X. Wang, P. Luo
-      <br /> International Conference on Machine Learning (<b> ICML </b>), 2020. 
+      <br /> International Conference on Machine Learning (<b>ICML</b>), 2020. 
       [<a href="http://proceedings.mlr.press/v119/shao20a.html">Paper</a>]
       <br />
     </li>
@@ -153,7 +153,7 @@ I was fortunate to have several interships in industry, such as Tencent ARC, Hua
     <li>
       SSN: Learning Sparse Switchable Normalization via SparsestMax, <br />
       <b>W. Shao</b>, J. Li, J. Ren, R. Zhang, X. Wang, P. Luo
-      <br /> International Journal of Computer Vision (<b> IJCV </b>), Volume 128, 2019. 
+      <br /> International Journal of Computer Vision (<b>IJCV</b>), Volume 128, 2019. 
       [<a href="https://link.springer.com/article/10.1007/s11263-019-01269-y">Paper</a>],
       [<a href="https://github.com/switchablenorms/Sparse_SwitchNorm">Code</a>]
       <br />
@@ -162,7 +162,7 @@ I was fortunate to have several interships in industry, such as Tencent ARC, Hua
     <li>
       Towards understanding regularization in batch normalization, <br />
       P. Luo*, X. Wang*, <b>W. Shao*</b>, Zhanglin Peng.
-      <br /> International Conference on Learning Representation (<b> ICLR </b>), 2019. 
+      <br /> International Conference on Learning Representation (<b>ICLR</b>), 2019. 
       [<a href="https://arxiv.org/abs/1809.00846">Paper</a>]
       <br />
       </li>
@@ -170,7 +170,7 @@ I was fortunate to have several interships in industry, such as Tencent ARC, Hua
     <li>
       SSN: Learning Sparse Switchable Normalization via SparsestMax, <br />
       <b>W. Shao</b>, T. Meng, J. Li, Y. Li, R. Zhang, X. Wang, P. Luo
-      <br /> Conference on Computer Vision and Pattern Recognition (<b> CVPR </b>), 2019. 
+      <br /> Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2019. 
       [<a href="http://openaccess.thecvf.com/content_CVPR_2019/html/Shao_SSN_Learning_Sparse_Switchable_Normalization_via_SparsestMax_CVPR_2019_paper.html">Paper</a>],
       [<a href="https://github.com/switchablenorms/Sparse_SwitchNorm">Code</a>]
       <br />
@@ -179,7 +179,7 @@ I was fortunate to have several interships in industry, such as Tencent ARC, Hua
     <li>
       Differentiable Learning-to-Group Channels via Groupable Convolutional Neural Networks, <br />
       Z. Zhang, J. Li, <b>W. Shao</b>, Z. Peng, R. Zhang, X. Wang, P. Luo
-      <br /> International Conference on Computer Vision  (<b> ICCV </b>), 2019. 
+      <br /> International Conference on Computer Vision  (<b>ICCV</b>), 2019. 
       [<a href="https://openaccess.thecvf.com/content_ICCV_2019/html/Zhang_Differentiable_Learning-to-Group_Channels_via_Groupable_Convolutional_Neural_Networks_ICCV_2019_paper.html">Paper</a>],
       <br />
       </li>
@@ -187,7 +187,7 @@ I was fortunate to have several interships in industry, such as Tencent ARC, Hua
     <li>
       Differentiable Dynamic Normalization for Learning Deep Representation, <br />
       P. Luo*, Z. Peng*, <b>W. Shao</b>, R. Zhang, J. Ren, P. Luo
-      <br /> International Conference on Machine Learning (<b> ICML </b>), 2019. 
+      <br /> International Conference on Machine Learning (<b>ICML</b>), 2019. 
       [<a href="http://proceedings.mlr.press/v97/luo19a.html">Paper</a>],
       <br />
       </li>
@@ -201,7 +201,7 @@ I was fortunate to have several interships in industry, such as Tencent ARC, Hua
   </li>
   <li>
     <p>
-      Conference Reviewer of CVPR 2020, 2021; ICLR 2020, 2021, 2022; NeurIPS 2019, 2020, 2021; ICCV 2021
+      Conference Reviewer of CVPR 2020, 2021; ICLR 2020, 2021, 2022; NeurIPS 2019, 2020, 2021, 2022; ICCV 2021.
       </p>
   </li>
   <li>
