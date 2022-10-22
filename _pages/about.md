@@ -183,7 +183,7 @@ I am a Young Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multimedia
       <br />
     <li>
       Differentiable Dynamic Normalization for Learning Deep Representation, <br />
-      P. Luo*, Z. Peng*, <b>W. Shao*</b>, R. Zhang, J. Ren, P. Luo
+      P. Luo*, Z. Peng*, <b>W. Shao</b>, R. Zhang, J. Ren, P. Luo
       <br /> International Conference on Machine Learning (<b> ICML </b>), 2019. 
       [<a href="http://proceedings.mlr.press/v97/luo19a.html">Paper</a>],
       <br />
