@@ -224,7 +224,7 @@ I was fortunate to have several interships in industry, such as Tencent ARC, Hua
   </li>
   <li>
     <p>
-      Teaching Assistant for <i> ELEG2450 Probability and Statistics for Engineers</i>, Spring 2022.
+      Teaching Assistant for <i> ELEG2450 Probability and Statistics for Engineers</i>, Spring 2020.
       </p>
   </li>
 </ul>
