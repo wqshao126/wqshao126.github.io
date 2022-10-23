@@ -161,7 +161,7 @@ I was fortunate to have several interships in industry, such as Tencent ARC, Hua
       <br />
     <li>
       Towards understanding regularization in batch normalization, <br />
-      P. Luo*, X. Wang*, <b>W. Shao*</b>, Zhanglin Peng.
+      P. Luo*, X. Wang*, <b>W. Shao*</b>, Z. Peng.
       <br /> International Conference on Learning Representation (<b>ICLR</b>), 2019. 
       [<a href="https://arxiv.org/abs/1809.00846">Paper</a>]
       <br />
