@@ -46,7 +46,7 @@ I was fortunate to have several interships in industry, such as Tencent ARC, Hua
 </h2>
 <ul>
   <li>
-    <p> [03/2023] A whitening apporach <b>RCD</b> for real-time denoising with image and video was accepted to CVPR'23.
+    <p> [03/2023] A whitening apporach <b>RCD</b> in real-time denoising for image and video was accepted to CVPR'23.
     </p>
   </li>
   <li>
