@@ -92,7 +92,6 @@ I was fortunate to have several interships in industry, such as Tencent ARC, Hua
       [<a href="https://arxiv.org/abs/2206.04028">Paper</a>]
       <br />
     </li>
-      <br />
     <li>
       Not All Models Are Equal: Predicting Model Transferability in a Self-challenging Fisher Space, <br />
       <b> W. Shao </b>, X. Zhao, Y. Ge, Z. Zhang, L. Yang, X. Wang, Y. Shan, P. Luo. 
@@ -101,6 +100,7 @@ I was fortunate to have several interships in industry, such as Tencent ARC, Hua
       [<a href="https://arxiv.org/abs/2207.03036">Paper</a>]
       <br />
     </li>
+    <li>
       Dynamic Token Normalization Improves Vision Transformer, <br />
       <b>W. Shao</b>, Y. Ge, Z. Zhang, X. Xu, X. Wang, Y. Shan, P. Luo 
       <br /> International Conference on Learning Representation (<b>ICLR</b>), 2022. 
