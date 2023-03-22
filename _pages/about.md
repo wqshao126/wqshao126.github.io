@@ -46,7 +46,7 @@ I was fortunate to have several interships in industry, such as Tencent ARC, Hua
 </h2>
 <ul>
   <li>
-    <p> [03/2023] A whitening apporach <b>RCD</b> in real-time denoising with image and video was accepted to CVPR'23.
+    <p> [03/2023] A whitening apporach <b>RCD</b> for real-time denoising with image and video was accepted to CVPR'23.
     </p>
   </li>
   <li>
@@ -84,6 +84,15 @@ I was fortunate to have several interships in industry, such as Tencent ARC, Hua
 
   <h3>2022</h3>
   <ul>
+  <li>
+      CO^3: Cooperative Unsupervised 3D Representation Learning for Autonomous Driving, <br />
+      R. Chen, Y. Mu, R. Xu, <b>W. Shao</b>, C. Jiang, H. Xu, Y. Qiao, Z. Li, P. Luo 
+      <br /> arXiv preprint (<b>ICLR</b>), 2023. 
+      [<a href="https://github.com/Runjian-Chen/CO3">Code</a>],
+      [<a href="https://arxiv.org/abs/2206.04028">Paper</a>]
+      <br />
+    </li>
+      <br />
     <li>
       Not All Models Are Equal: Predicting Model Transferability in a Self-challenging Fisher Space, <br />
       <b> W. Shao </b>, X. Zhao, Y. Ge, Z. Zhang, L. Yang, X. Wang, Y. Shan, P. Luo. 
@@ -92,17 +101,6 @@ I was fortunate to have several interships in industry, such as Tencent ARC, Hua
       [<a href="https://arxiv.org/abs/2207.03036">Paper</a>]
       <br />
     </li>
-      <br />
-    <li>
-      CO^3: Cooperative Unsupervised 3D Representation Learning for Autonomous Driving, <br />
-      R. Chen, Y. Mu, R. Xu, <b>W. Shao</b>, C. Jiang, H. Xu, Y. Qiao, Z. Li, P. Luo 
-      <br /> arXiv preprint (<b>Submitted to ICLR</b>), 2022. 
-      [<a href="https://github.com/Runjian-Chen/CO3">Code</a>],
-      [<a href="https://arxiv.org/abs/2206.04028">Paper</a>]
-      <br />
-    </li>
-      <br />   
-    <li>
       Dynamic Token Normalization Improves Vision Transformer, <br />
       <b>W. Shao</b>, Y. Ge, Z. Zhang, X. Xu, X. Wang, Y. Shan, P. Luo 
       <br /> International Conference on Learning Representation (<b>ICLR</b>), 2022. 
