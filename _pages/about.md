@@ -30,7 +30,9 @@ I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multime
 During my Ph.D. period, I was supervised by <a href="https://www.ee.cuhk.edu.hk/~xgwang/">Prof. Xiaogang Wang</a>, <a href="http://luoping.me/">Prof. Ping Luo</a>, and <a href="https://www.ee.cuhk.edu.hk/~hsli/">Prof. Hongsheng Li</a>. 
 Before that, I received bachelor's degree in School of Mathematics at University of Electronic Science and Technology of China (UESTC) in 2017, ranking 1/40. 
 I was fortunate to have several interships in industry, such as Tencent ARC, Huawei Noah AI Foundation Group, and Sensetime Research. 
+</p>
 
+<p align = "justify"> 
 My research interests lie in the pre-training, evaluation, applications of multimodal foundation models, as well as compression techniques and hardware codesign for large models. 
 </p>
 
