@@ -29,11 +29,13 @@ redirect_from:
 I am a Research Scientist at Shanghai AI Lab. I got my Ph.D. degree from Multimedia Lab, the Chinese University of Hong Kong (CUHK) in 2022. 
 During my Ph.D. period, I was supervised by <a href="https://www.ee.cuhk.edu.hk/~xgwang/">Prof. Xiaogang Wang</a>, <a href="http://luoping.me/">Prof. Ping Luo</a>, and <a href="https://www.ee.cuhk.edu.hk/~hsli/">Prof. Hongsheng Li</a>. 
 Before that, I received bachelor's degree in School of Mathematics at University of Electronic Science and Technology of China (UESTC) in 2017, ranking 1/40. 
-I was fortunate to have several interships in industry, such as Tencent ARC, Huawei Noah AI Foundation Group, and Sensetime Research. My research interests lie in transfer learning of foundation models, co-design of networks and hardware accelerator, normalization methods in deep models, self-supervised representation learning, and compressing large-scale vision-language models. 
+I was fortunate to have several interships in industry, such as Tencent ARC, Huawei Noah AI Foundation Group, and Sensetime Research. 
+
+My research interests lie in the pre-training, evaluation, applications of multimodal foundation models, as well as compression techniques and hardware codesign for large models. 
 </p>
 
 <p align = "justify"> 
-<i> I am looking for research interns at Shanghai AI lab. Feel free to send me an email if you are interested in the above topics. </i>
+<i> I am happy to work with self-motivated research interns at Shanghai AI lab. Feel free to send me an email if you are interested in the above topics. </i>
 </p>
 
 <!-- News
@@ -45,6 +47,26 @@ I was fortunate to have several interships in industry, such as Tencent ARC, Hua
   News 
 </h2>
 <ul>
+  <li>
+    <p> [05/2024] Four papers including <a href="https://arxiv.org/pdf/2404.16006"><b>MMT-Bench</b></a> in evaluting LVLMs on a task map, <a href="https://arxiv.org/pdf/2403.02118"><b>ImplicitBench</b></a> in evaluating safety of T2I models, <a href="https://arxiv.org/pdf/2402.05935"><b>Sphinx-X</b></a> in pre-training powerful LVLMs, and <a href="https://arxiv.org/pdf/2402.16117"><b>RoboCodeX</b></a> in pre-training embodied foundation models were accepted to ICML'24.
+    </p>
+  </li>
+  <li>
+    <p> [03/2024] Two papers including <a href="https://arxiv.org/pdf/2402.09181"><b>OmniMedVQA</b></a> in evaluting LVLMs on medical domain and <a href="https://arxiv.org/pdf/2404.01342"><b>DiffAgent</b></a> in T2I model selection with LLMs were accepted to CVPR'24.
+    </p>
+  </li>
+  <li>
+    <p> [01/2024] Three papers including <a href="https://arxiv.org/pdf/2308.13137"><b>OmniQuant (Spotlight)</b></a> in quantizing LLMs,  <a href="https://arxiv.org/html/2402.16880v1"><b>BESA</b></a> in sparsifying LLMs, and <a href="https://arxiv.org/pdf/2310.08582"><b>Tree-Planner</b></a> in planning with LLMs were accepted to ICLR'24.
+    </p>
+  </li>
+  <li>
+    <p> [08/2023] One paper <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/687b7b2bdcc2ced577c0a989b44e7078-Paper-Conference.pdf"><b>EMMS </b></a> in multimodal multitask model selection was accepted to NeurIPS'23.
+    </p>
+  </li>
+  <li>
+    <p> [06/2023] Two papers including <a href="http://openaccess.thecvf.com/content/ICCV2023/papers/Hu_Beyond_One-to-One_Rethinking_the_Referring_Image_Segmentation_ICCV_2023_paper.pdf"><b>DMMI (Oral)</b></a> in generalized refeering segmentation and <a href="http://openaccess.thecvf.com/content/ICCV2023/papers/Chen_DiffRate__Differentiable_Compression_Rate_for_Efficient_Vision_Transformers_ICCV_2023_paper.pdf"><b>DiffRate</b></a> in ViT token compression  were accepted to ICCV'23.
+    </p>
+  </li>
   <li>
     <p> [03/2023] A whitening apporach <b>RCD</b> in real-time denoising for image and video was accepted to CVPR'23.
     </p>
