@@ -50,6 +50,10 @@ My research interests lie in the pre-training, evaluation, applications of multi
 </h2>
 <ul>
   <li>
+    <p> [05/2024] One paper <a href="https://arxiv.org/abs/2401.02384"><b>ChartAssistant</b></a> in pre-training LVLMs on chart-related tasks was accepted to ACL'24 Findings. 
+    </p>
+  </li>
+  <li>
     <p> [05/2024] Four papers including <a href="https://arxiv.org/pdf/2404.16006"><b>MMT-Bench</b></a> in evaluting LVLMs on a task map, <a href="https://arxiv.org/pdf/2403.02118"><b>ImplicitBench</b></a> in evaluating safety of T2I models, <a href="https://arxiv.org/pdf/2402.05935"><b>Sphinx-X</b></a> in pre-training powerful LVLMs, and <a href="https://arxiv.org/pdf/2402.16117"><b>RoboCodeX</b></a> in pre-training embodied foundation models were accepted to ICML'24.
     </p>
   </li>
