@@ -33,7 +33,7 @@ I was fortunate to have several interships in industry, such as Tencent ARC, Hua
 </p>
 
 <p align = "justify"> 
-My research interests lie in the pre-training, evaluation, applications of multimodal foundation models, as well as compression techniques and hardware codesign for large models. 
+My research interests lie in the evaluation and reasoning of multimodal foundation models, as well as compression techniques and hardware codesign for large models. 
 </p>
 
 <p align = "justify"> 
@@ -50,11 +50,19 @@ My research interests lie in the pre-training, evaluation, applications of multi
 </h2>
 <ul>
   <li>
+    <p> [01/2025] Five papers incluing <a href="https://arxiv.org/pdf/2410.08695"><b>VLB</b></a> dynamic multimodal evaluation, <a href="https://arxiv.org/pdf/2408.02718"><b>MMIU</b></a> multi-image evaluation, <a href="https://arxiv.org/pdf/2410.22662"><b>EMOS</b></a> embodied multi-agents, <a href="https://openreview.net/pdf?id=JlDx2xp01W"><b>SAMRefiner</b></a> mask refinement with SAM, and <a href="https://arxiv.org/pdf/2405.05945"><b>Lumina-T2X</b></a> text-to-X generation  were accepted to ICLR'25. 
+    </p>
+  </li>
+  <li>
+    <p> [09/2024] Four papers incluing <a href="https://openreview.net/pdf?id=PyTf2jj0SH"><b>ConvBench (Spotlight)</b></a> multi-modal multi-turn conversation evaluation, <a href="https://openreview.net/pdf?id=U2pNwSuQqD"><b>MM-NIAH</b></a> multi-modal long-context evaluation, <a href="https://openreview.net/pdf?id=leeosk2RAM"><b>SearchLVLMs</b></a> LVLMs search with RAG, and <a href="https://openreview.net/pdf?id=0AwMciNShl"><b> T2VHE</b></a> T2V evaluation protocol were accepted to NeurIPS'24. 
+    </p>
+  </li>
+  <li>
     <p> [05/2024] One paper <a href="https://arxiv.org/abs/2401.02384"><b>ChartAssistant</b></a> in pre-training LVLMs on chart-related tasks was accepted to ACL'24 Findings. 
     </p>
   </li>
   <li>
-    <p> [05/2024] Four papers including <a href="https://arxiv.org/pdf/2404.16006"><b>MMT-Bench</b></a> in evaluting LVLMs on a task map, <a href="https://arxiv.org/pdf/2403.02118"><b>ImplicitBench</b></a> in evaluating safety of T2I models, <a href="https://arxiv.org/pdf/2402.05935"><b>Sphinx-X</b></a> in pre-training powerful LVLMs, and <a href="https://arxiv.org/pdf/2402.16117"><b>RoboCodeX</b></a> in pre-training embodied foundation models were accepted to ICML'24.
+    <p> [05/2024] Four papers including <a href="https://arxiv.org/pdf/2404.16006"><b>MMT-Bench</b></a> in evaluating LVLMs on a task map, <a href="https://arxiv.org/pdf/2403.02118"><b>ImplicitBench</b></a> in evaluating safety of T2I models, <a href="https://arxiv.org/pdf/2402.05935"><b>Sphinx-X</b></a> in pre-training powerful LVLMs, and <a href="https://arxiv.org/pdf/2402.16117"><b>RoboCodeX</b></a> in pre-training embodied foundation models were accepted to ICML'24.
     </p>
   </li>
   <li>
